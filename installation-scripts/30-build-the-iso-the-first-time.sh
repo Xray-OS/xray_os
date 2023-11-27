@@ -20,7 +20,7 @@ echo
 	# setting of the general parameters
 	archisoRequiredVersion="archiso 73-1"
 	buildFolder=$HOME"/XRAY-BUILD"
-	outFolder=$HOME"/XRAY-OUTt"
+	outFolder=$HOME"/XRAY-OUT"
 	archisoVersion=$(sudo pacman -Q archiso)
 
 	echo "################################################################## "
