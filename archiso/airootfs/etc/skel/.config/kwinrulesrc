@@ -1,0 +1,20 @@
+[$Version]
+update_info=kwinrules.upd:replace-placement-string-to-enum,kwinrules.upd:use-virtual-desktop-ids
+
+[1]
+Description=DaVinci Resolve main window always with titlebar and frame
+noborderrule=2
+types=1
+wmclass=resolve
+wmclassmatch=1
+
+[2b826573-073a-4bda-9ea4-b66991da48ba]
+Description=DaVinci Resolve main window always with titlebar and frame
+noborderrule=2
+types=1
+wmclass=resolve
+wmclassmatch=1
+
+[General]
+count=1
+rules=1

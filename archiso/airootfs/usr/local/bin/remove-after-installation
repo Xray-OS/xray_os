@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# this scrpt is intended to remove any unnecessary pkgs after an installation if needed
+
+
+#example: yes | sudo pacman -R calamares gparted
+

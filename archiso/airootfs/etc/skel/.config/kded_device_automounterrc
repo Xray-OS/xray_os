@@ -1,0 +1,46 @@
+[Devices][/org/freedesktop/UDisks2/block_devices/nvme0n1p1]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=EFI system partition
+
+[Devices][/org/freedesktop/UDisks2/block_devices/nvme0n1p2]
+EverMounted=true
+Icon=drive-harddisk-root
+LastNameSeen=root
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/nvme0n1p3]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=Basic data partition
+
+[Devices][/org/freedesktop/UDisks2/block_devices/nvme1n1p1]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=300,0 MiB Internal Drive (nvme1n1p1)
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/nvme1n1p2]
+EverMounted=true
+Icon=drive-harddisk-root
+LastNameSeen=root
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/nvme1n1p3]
+Icon=drive-harddisk
+LastNameSeen=Basic data partition
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sda1]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=HDD (Linux)
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sda2]
+Icon=drive-harddisk
+LastNameSeen=362,6 GiB Internal Drive (sda2)
+
+[General]
+AutomountEnabled=true
+AutomountOnLogin=true
+AutomountOnPlugin=true
+AutomountUnknownDevices=true

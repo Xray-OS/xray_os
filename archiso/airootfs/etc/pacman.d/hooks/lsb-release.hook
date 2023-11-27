@@ -1,0 +1,11 @@
+# remove from airootfs!
+[Trigger]
+Operation = Install
+Operation = Upgrade
+Type = Package
+Target = lsb-release
+
+[Action]
+Description = Add Xray_OS config for "lsb-release" file
+When = PostTransaction
+Exec = /bin/sh -c "cp /etc/xray-release /etc/lsb-release"
