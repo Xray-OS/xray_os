@@ -11,6 +11,10 @@ careful, be aware that this distro is something that I created for my personal u
 
 ISO: 
 
+
+
+
+
 Want to know a little about this project?
 
 What is Xray_OS? 
