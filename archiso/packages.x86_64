@@ -185,6 +185,8 @@ lib32-libglvnd
 lib32-nvidia-utils
 lib32-opencl-nvidia
 nvidia-settings
+mesa
+mesa-utils
 
 ###display manager
 sddm
@@ -225,6 +227,11 @@ kdegraphics-thumbnailers
 
 ###fonts
 noto-fonts-emoji
+
+###japanese, korean and chinese fonts
+adobe-source-han-sans-jp-fonts
+adobe-source-han-sans-kr-fonts
+adobe-source-han-sans-cn-fonts
 
 ###multimedia
 strawberry
@@ -269,6 +276,10 @@ bluez
 bluez-libs
 bluez-utils
 #pulseaudio-bluetooth
+
+###AUR helpers
+paru
+yay
 
 #########################################################################
 #                  XRAY GAMING
@@ -353,7 +364,6 @@ protonup-qt
 qbittorrent
 #pamac-aur
 pamac-all
-#arcolinux-pamac-all
 
 #########################################################################
 #                  XRAY THEMING STUFF
