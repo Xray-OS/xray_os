@@ -23,7 +23,7 @@ As some people would say: is just another pointless Arch Linux distro for gaming
 
 Now what I would say:
 
-Xray_OS is not the biggest thing in the world, but overall it's a great Linux Distribution for gaming + Wine + Wine dependencies, that I've created, for my personal use, I always wanted to create my own OS, but since that's kind of impossible, well... why not making my own Linux Distro? From my favorite type which is Arch. Arch Linux it's just so flexible and customizable, and like everyone who ever heard of, or use Arch will say: we always have the latest and greatest software.
+Xray_OS is not the biggest thing in the world, but overall it's a great Linux Distribution for gaming, that I've created, for my personal use, I always wanted to create my own OS, but since that's kind of impossible, well... why not making my own Linux Distro? From my favorite type which is Arch. Arch Linux it's just so flexible and customizable, and like everyone who ever heard of, or use Arch will say: we always have the latest and greatest software.
 
 My inspiration for creating Xray_OS, was given as an idea from distros like: 
 
@@ -35,7 +35,7 @@ DTOS
 
 And so many others like XeroLinux.
 
-But I really wanted to make it simple and not too complicated, so the plasma settings that Xray_OS uses are not so complex in terms of Beauty or Eye Candy. Xray_OS already comes with pre-installed software for gaming, dependencies for those who are interested to work with Unreal Engine, The normal software that everyone uses like, a music player, a video player, drivers for NVIDIA, libreoffice(fresh), support for 32 bits, an applicaion for downloading torrents, at least two browsers, AUR helpers, flatpack support, snapd support etc.., etc.
+But I really wanted to make it simple and not too complicated, so the plasma settings that Xray_OS uses are not so complex in terms of Beauty or Eye Candy. Xray_OS already comes with pre-installed software for gaming + Wine + Wine dependencies, dependencies for those who are interested to work with Unreal Engine, The normal software that everyone uses like, a music player, a video player, drivers for NVIDIA, libreoffice(fresh), support for 32 bits, an applicaion for downloading torrents, at least two browsers, AUR helpers, flatpack support, snapd support etc.., etc.
 
 At the moment, this Linux distro is in a beta state, so maybe a couple things would need some manual adjustment as you may notice. 
 
