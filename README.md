@@ -32,7 +32,7 @@ DTOS
 
 And so many others like XeroLinux.
 
-But I really wanted to make simple and not too complicated, so the plasma settings that Xray_OS uses are not so complex in terms of Beauty or Eye Candy. Xray_OS already comes with pre-installed software for gaming, dependencies for those who are interested to work with Unreal Engine, The normal software that everyone uses like, a music player, a video player, drivers for NVIDIA, libreoffice(fresh), support for 32 bits, an applicaion for downloading torrents, at least two browsers etc.., etc.
+But I really wanted to make it simple and not too complicated, so the plasma settings that Xray_OS uses are not so complex in terms of Beauty or Eye Candy. Xray_OS already comes with pre-installed software for gaming, dependencies for those who are interested to work with Unreal Engine, The normal software that everyone uses like, a music player, a video player, drivers for NVIDIA, libreoffice(fresh), support for 32 bits, an applicaion for downloading torrents, at least two browsers etc.., etc.
 
 At the moment, this Linux distro is in a beta state, so maybe a couple things would need some manual adjustment as you may notice. 
 Eg.There are no favorite applications in the launcher, you have to put them manually with mouse and click.
