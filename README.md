@@ -7,7 +7,8 @@ Here you go..
 
 !IMPORTANT BEFORE YOU DOWNLOAD!: 
 
-careful, be aware that this distro is something that I created for my personal use, it may not work as expected for everyone. At the moment it only works with PCs or Laptos that has NVIDIA GPUs, support for AMD or no graphics cards at all will come in the future for sure.
+careful, be aware that this distro is something that I created for my personal use, it may not work as expected for everyone. 
+At the moment it only works with PCs or Laptos that has NVIDIA GPUs, support for AMD or no graphics cards at all will come in the future for sure.
 
 ISO: 
 
