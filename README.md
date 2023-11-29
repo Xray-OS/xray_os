@@ -1,7 +1,7 @@
 # xray_os
 This is the iso build folder for Xray_OS.
 
-Don't care about reading, just want to download the ISO just now?
+Don't care about reading, just want to download the ISO right now?
 
 Here you go..
 !IMPORTANT BEFORE YOU DOWNLOAD!: 
