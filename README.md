@@ -30,7 +30,7 @@ Pop!_OS
 
 DTOS 
 
-and so many others like XeroLinux.
+And so many others like XeroLinux.
 
 But I really wanted to make simple and not too complicated, so the plasma settings that Xray_OS uses are not so complex in terms of Beauty or Eye Candy. Xray_OS already comes with pre-installed software for gaming, dependencies for those who are interested to work with Unreal Engine, The normal software that everyone uses like, a music player, a video player, drivers for NVIDIA, libreoffice(fresh), support for 32 bits, an applicaion for downloading torrents, at least two browsers etc.., etc.
 
