@@ -35,7 +35,7 @@ But I really wanted to make it simple and not too complicated, so the plasma set
 
 At the moment, this Linux distro is in a beta state, so maybe a couple things would need some manual adjustment as you may notice. 
 
-Eg. There are no favorite applications in the launcher, you have to put them manually with mouse and click, an adjustment is needed to show the correct login manager out of the box, so for the moment you will have to adjust that manually to, in KDE Plasma settings. But most of this issues will get fix eventually, remember this is still on BETA, so you're advised.
+Eg. There are no favorite applications in the launcher, you have to put them manually with mouse and click, an adjustment is needed to show the correct login manager out of the box, so for the moment you will have to adjust that manually too, in KDE Plasma settings. But most of this issues will get fix eventually, remember this is still on BETA, so you're advised.
 
 want to build the distro manually? you will need, and have to be aware of:
 1. Archiso
