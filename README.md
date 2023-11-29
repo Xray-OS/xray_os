@@ -1,5 +1,5 @@
 # xray_os
-This is the iso build folder for Xray_OS. Big thanks to the ArcoLinux project, because it was my main learning source, to comprehend the way Arch Linux works in a way that allows me to made this project possible, specifically, the ALCI Project: Arch Linux Calamares Installer.
+This is the iso build folder for Xray_OS. Big thanks to the ArcoLinux project, because it was my main learning source, to comprehend the way Arch Linux works in a manner that allows me to made this project possible, specifically, the ALCI Project: Arch Linux Calamares Installer.
 
 Don't care about reading, just want to download the ISO right now?
 
