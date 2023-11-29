@@ -23,6 +23,7 @@ Xray_OS is not the biggest thing in the world, but overall it's a great Linux Di
 why not making my own Linux Distro?, from my favorite type which is Arch. Arch Linux it's just so flexible and customizable, and like everyone who ever heard of, or use Arch will say, we always have the latest and greatest software.
 
 My inspiration for creating Xray_OS, was given as an idea from distros like: 
+
 Nobara(mainly) 
 Pop!_OS 
 DTOS 
