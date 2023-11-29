@@ -11,6 +11,10 @@ careful, be aware that this distro is something that I created for my personal u
 
 ISO: 
 
+Mediafire: https://www.mediafire.com/file/r4vux0bi11p6qcw/Xray_OS-2023.11.28-x86_64.iso/file
+
+SourceForge: will be available soon in coming days.. 
+
 Want to know a little about this project?
 
 What is Xray_OS? 
