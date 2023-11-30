@@ -1,6 +1,5 @@
 ![Xray_OS logo](https://images2.imgbox.com/67/fa/UbT8qfSj_o.png)
 ![OS Logo](https://images2.imgbox.com/98/c0/5VRGfBHj_o.png)
-![Screenshot_20231130_185442](https://github.com/Xray-OS/xray_os/assets/143856402/192c9bd7-6706-447f-a8bb-36513a95907d)
 This is the iso build folder for Xray_OS. Big thanks to the ArcoLinux project, because it was my main learning source, to comprehend the way Arch Linux works in a manner that allows me to make this project possible, specifically, the ALCI Project: Arch Linux Calamares Installer.
 
 ### Don't care about reading, just want to download the ISO right now?
@@ -17,6 +16,8 @@ https://mega.nz/file/jpMGQKTY#oJDLuMWWOkUTYT1u-WCnkWVX6kKsBjDh5I0J_OV6fyo
 
 ### SourceForge: 
 Will be available soon in coming days.. 
+
+![Screenshot_20231130_185442](https://github.com/Xray-OS/xray_os/assets/143856402/192c9bd7-6706-447f-a8bb-36513a95907d)
 
 # Want to know a little about this project?
 
