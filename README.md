@@ -51,4 +51,4 @@ Most of this issues will get fix eventually, remember this is still on **BETA**,
 ### ATTENTION: 
 At the moment Xray_OS build folder has been taken off, due to procedures that needs to be applied to it, we hope that eventually it's back on the repo.
 
-![OS Logo](https://images2.imgbox.com/98/c0/5VRGfBHj_o.png)
+<img src="https://images2.imgbox.com/98/c0/5VRGfBHj_o.png" width="100" height="100">
