@@ -18,7 +18,7 @@ https://mega.nz/file/jpMGQKTY#oJDLuMWWOkUTYT1u-WCnkWVX6kKsBjDh5I0J_OV6fyo
 
 # Want to know a little about this project?
 
-What is Xray_OS? 
+## What is Xray_OS? 
 
 As some people would say: is just another pointless Arch Linux distro for gaming.
 
