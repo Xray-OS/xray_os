@@ -40,7 +40,9 @@ Xray_OS is not the biggest thing in the world, but overall it's a great Linux Di
 
 > **XeroLinux.**
 
-But I really wanted to make it simple and not too complicated, so the plasma settings that Xray_OS uses are not so complex in terms of Beauty or Eye Candy. Xray_OS already comes with pre-installed software for gaming + Wine + Wine dependencies, dependencies for those who are interested to work with Unreal Engine, The normal software that everyone uses like, a music player, a video player, drivers for NVIDIA, libreoffice(fresh), support for 32 bits, an applicaion for downloading torrents, at least two browsers, AUR helpers, flatpack support, snapd support etc.., etc.
+But I really wanted to make it simple and not too complicated, so the plasma settings that Xray_OS uses are not so complex in terms of Beauty or Eye Candy. 
+
+Xray_OS already comes with pre-installed software for gaming + Wine + Wine dependencies, dependencies for those who are interested to work with Unreal Engine, The normal software that everyone uses like, a music player, a video player, drivers for NVIDIA, libreoffice(fresh), support for 32 bits, an applicaion for downloading torrents, at least two browsers, AUR helpers, flatpack support, snapd support etc.., etc.
 
 At the moment, this Linux distro is in a **BETA** state, so maybe a couple things would need some manual adjustment as you may notice. 
 
