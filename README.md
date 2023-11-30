@@ -20,19 +20,19 @@ https://mega.nz/file/jpMGQKTY#oJDLuMWWOkUTYT1u-WCnkWVX6kKsBjDh5I0J_OV6fyo
 
 ## What is Xray_OS? 
 
-As some people would say: is just another pointless Arch Linux distro for gaming.
+***As some people would say:*** is just another pointless Arch Linux distro for gaming.
 
-Now what I would say:
+**Now what I would say**:
 
 Xray_OS is not the biggest thing in the world, but overall it's a great Linux Distribution for gaming, that I've created, for my personal use, I always wanted to create my own OS, but since that's kind of impossible, well... why not making my own Linux Distro? From my favorite type which is Arch. Arch Linux it's just so flexible and customizable, and like everyone who ever heard of, or use Arch will say: we always have the latest and greatest software.
 
 My inspiration for creating Xray_OS, was given as an idea from distros like: 
 
-Nobara(mainly) 
+> **Nobara(mainly)** 
 
-Pop!_OS 
+> **Pop!_OS** 
 
-DTOS 
+> **DTOS** 
 
 And so many others like XeroLinux.
 
