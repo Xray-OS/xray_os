@@ -41,9 +41,9 @@ At the moment, this Linux distro is in a **BETA** state, so maybe a couple thing
 
 ### Eg. 
 * ~~Favorite apps are not shown in the Launcher.~~
-* An adjustment is needed to show the correct login manager out of the box, will have to adjust that manually at the momentarily.
+* A manual adjustment is require to show the preferred login manager chosen for the distro out of the box.
 
-Most of this issues will get fix eventually, remember this is still on **BETA**, so you're **advised**.
+Most of this issues will get fix eventually, remember this is still on **BETA**, so you're advised.
 
 ### ATTENTION: 
 At the moment Xray_OS build folder has been taken off, due to fix procedures that needs to be applied to it, we hope that eventually it's back on the repo.
