@@ -41,7 +41,4 @@ At the moment, this Linux distro is in a beta state, so maybe a couple things wo
 
 Eg. There are no favorite applications in the launcher, you have to put them manually with mouse and click, an adjustment is needed to show the correct login manager out of the box, so for the moment you will have to adjust that manually too, in KDE Plasma settings. But most of this issues will get fix eventually, remember this is still on BETA, so you're advised.
 
-want to build the distro manually? you will need, and have to be aware of:
-1. Archiso
-2. Before trying to build it, consider to checkout the pacman.conf repos from the build folder, and add them to your system's pacman.conf so you can sucessfully build the iso
-3. If you use pamac-aur there's a possibility that you'll not be able to build the ISO, due to the fact that the dependencies of the pamac version that Xray_OS uses: 'pamac-all', will break the dependencies of pamac-aur. 
+ATTENTION: At the moment Xray_OS build folder has been taken off, due to fix procedures that needs to be applied to it, we hope that eventually it's back on the repo.
