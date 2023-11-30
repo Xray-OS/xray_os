@@ -1,5 +1,3 @@
-# xray_os
-
 ![Xray_OS logo](https://images2.imgbox.com/67/fa/UbT8qfSj_o.png)
 
 
