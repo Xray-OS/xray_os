@@ -1,17 +1,17 @@
 # xray_os
 This is the iso build folder for Xray_OS. Big thanks to the ArcoLinux project, because it was my main learning source, to comprehend the way Arch Linux works in a manner that allows me to make this project possible, specifically, the ALCI Project: Arch Linux Calamares Installer.
 
-# Don't care about reading, just want to download the ISO right now?
+### Don't care about reading, just want to download the ISO right now?
 
 Here you go.. 
 
-###### !IMPORTANT BEFORE YOU DOWNLOAD!: 
+# !IMPORTANT BEFORE YOU DOWNLOAD!: 
 
 careful, be aware that this distro is something that I created for my personal use, it may not work as expected for everyone. At the moment it only works with PCs or Laptos that has NVIDIA GPUs. Support for AMD or no graphics cards at all will come in the future for sure.
 
 ISO: 
 
-# Mediafire/Mega/Other: 
+### Mediafire/Mega/Other: 
 https://mega.nz/file/jpMGQKTY#oJDLuMWWOkUTYT1u-WCnkWVX6kKsBjDh5I0J_OV6fyo
 
 SourceForge: will be available soon in coming days.. 
