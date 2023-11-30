@@ -11,7 +11,7 @@ careful, be aware that this distro is something that I created for my personal u
 
 ISO: 
 
-Mediafire: https://mega.nz/file/jpMGQKTY#oJDLuMWWOkUTYT1u-WCnkWVX6kKsBjDh5I0J_OV6fyo
+Mediafire/Mega/Other: https://mega.nz/file/jpMGQKTY#oJDLuMWWOkUTYT1u-WCnkWVX6kKsBjDh5I0J_OV6fyo
 
 SourceForge: will be available soon in coming days.. 
 
