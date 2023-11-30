@@ -1,7 +1,8 @@
 # xray_os
 
-![Xray_OS logo](https://images2.imgbox.com/67/fa/UbT8qfSj_o.png)
-1
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+
+
 This is the iso build folder for Xray_OS. Big thanks to the ArcoLinux project, because it was my main learning source, to comprehend the way Arch Linux works in a manner that allows me to make this project possible, specifically, the ALCI Project: Arch Linux Calamares Installer.
 
 ### Don't care about reading, just want to download the ISO right now?
