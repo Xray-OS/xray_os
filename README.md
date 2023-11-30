@@ -40,6 +40,10 @@ But I really wanted to make it simple and not too complicated, so the plasma set
 At the moment, this Linux distro is in a **BETA** state, so maybe a couple things would need some manual adjustment as you may notice. 
 
 ### Eg. 
-an adjustment is needed to show the correct login manager out of the box, so for the moment you will have to adjust that manually too, in KDE Plasma settings. But most of this issues will get fix eventually, remember this is still on BETA, so you're advised.
+* ~~Favorite apps are not shown in the Launcher.~~
+* An adjustment is needed to show the correct login manager out of the box, will have to adjust that manually at the momentarily.
 
-ATTENTION: At the moment Xray_OS build folder has been taken off, due to fix procedures that needs to be applied to it, we hope that eventually it's back on the repo.
+Most of this issues will get fix eventually, remember this is still on **BETA**, so you're **advised**.
+
+### ATTENTION: 
+At the moment Xray_OS build folder has been taken off, due to fix procedures that needs to be applied to it, we hope that eventually it's back on the repo.
