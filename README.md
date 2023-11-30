@@ -46,4 +46,4 @@ At the moment, this Linux distro is in a **BETA** state, so maybe a couple thing
 Most of this issues will get fix eventually, remember this is still on **BETA**, so you're advised.
 
 ### ATTENTION: 
-At the moment Xray_OS build folder has been taken off, due to fix procedures that needs to be applied to it, we hope that eventually it's back on the repo.
+At the moment Xray_OS build folder has been taken off, due to procedures that needs to be applied to it, we hope that eventually it's back on the repo.
