@@ -40,7 +40,7 @@ But I really wanted to make it simple and not too complicated, so the plasma set
 At the moment, this Linux distro is in a **BETA** state, so maybe a couple things would need some manual adjustment as you may notice. 
 
 ### Eg. 
-* ~~Favorite apps are not shown in the Launcher.~~
+* ~~Favorite apps are not shown in the Launcher.~~(FIXED)
 * A manual adjustment is require to show the preferred login manager chosen for the distro out of the box.
 
 Most of this issues will get fix eventually, remember this is still on **BETA**, so you're advised.
