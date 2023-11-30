@@ -16,9 +16,9 @@ https://mega.nz/file/jpMGQKTY#oJDLuMWWOkUTYT1u-WCnkWVX6kKsBjDh5I0J_OV6fyo
 ### SourceForge: 
 Will be available soon in coming days.. 
 
-![Screenshot_20231130_185442](https://github.com/Xray-OS/xray_os/assets/143856402/192c9bd7-6706-447f-a8bb-36513a95907d)
 
 # Want to know a little about this project?
+![Screenshot_20231130_185442](https://github.com/Xray-OS/xray_os/assets/143856402/192c9bd7-6706-447f-a8bb-36513a95907d)
 
 ## What is Xray_OS? 
 
