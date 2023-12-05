@@ -14,7 +14,7 @@ Careful, be aware that this distro is something that I created for my personal u
 https://mega.nz/file/ql1hnJyb#4u8pRzabDiTipjJD3zIHfk6uHuIaBVBb5jz6BQ42nzo
 
 ### SourceForge: 
-Will be available soon in coming days.. 
+https://sourceforge.net/projects/xray-os/
 
 
 # Want to know a little about this project?
