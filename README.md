@@ -11,7 +11,8 @@ Careful, be aware that this distro is something that I created for my personal u
 
 
 ### ISO (BETA 1.02)> Mediafire/Mega/Other: 
-https://mega.nz/file/akEmCQTQ#_ZbpJIrnaAcysrzRipK2SsTLnxKLKlMFEFvuzD8MBK8
+Standard Version(currently under testing): https://mega.nz/file/fp1zWCAS#xy4F2bL6DbQUjzTTh-OIoRWLuS69xNdqBLkpcsKuF64  
+NVIDIA Version: https://mega.nz/file/akEmCQTQ#_ZbpJIrnaAcysrzRipK2SsTLnxKLKlMFEFvuzD8MBK8
 
 ### SourceForge: 
 https://sourceforge.net/projects/xray-os/
