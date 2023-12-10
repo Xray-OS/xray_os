@@ -12,6 +12,7 @@ Careful, be aware that this distro is something that I created for my personal u
 
 ### ISO (BETA 1.02)> Mediafire/Mega/Other: 
 Standard Version(currently under testing | BETA-1.04): https://mega.nz/file/zgsBVSBL#-EIHU_Lx0gZ47gI2hUT_VXwhBymI58twOXuHZCPfvhY
+
 NVIDIA Version(BETA-1.04): https://mega.nz/file/ShlUTbiS#ggxYyhdNHwEAxoeuM9ud4WvcMrRbYIXfh2ST6hFOGkg
 
 ### SourceForge: 
