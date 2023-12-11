@@ -37,7 +37,7 @@ Xray_OS overall it's a great Linux Distribution for gaming, that I've created, f
 
 > **XeroLinux.**
 
-<img src="https://images2.imgbox.com/45/8d/RI0cRHcS_o.png">
+![Xray_OS](https://github.com/Xray-OS/xray_os/assets/143856402/6838b3ff-f63c-4e9f-9f9b-4c794eb65593)
 
 But I really wanted to make it simple and not too complicated, so the plasma settings that Xray_OS uses are not so complex in terms of Beauty or Eye Candy. 
 
