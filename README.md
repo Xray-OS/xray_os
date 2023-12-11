@@ -37,6 +37,8 @@ Xray_OS overall it's a great Linux Distribution for gaming, that I've created, f
 
 > **XeroLinux.**
 
+<img src="https://images2.imgbox.com/45/8d/RI0cRHcS_o.png">
+
 But I really wanted to make it simple and not too complicated, so the plasma settings that Xray_OS uses are not so complex in terms of Beauty or Eye Candy. 
 
 Xray_OS already comes with pre-installed software for gaming + Wine + Wine dependencies, dependencies for those who are interested to work with Unreal Engine, The normal software that everyone uses like, a music player, a video player, drivers for NVIDIA, libreoffice(fresh), support for 32 bits, an applicaion for downloading torrents, at least two browsers, AUR helpers, flatpack support, snapd support etc.., etc.
