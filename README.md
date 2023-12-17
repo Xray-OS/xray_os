@@ -10,10 +10,10 @@ Here you go..
 Careful, be aware that this distro is something that I created for my personal use, it may not work as expected for everyone. At the moment it only works with PCs or Laptos that has NVIDIA GPUs. Support for AMD or no graphics cards at all will come in the future for sure.
 
 
-### ISO (BETA 1.04) > Mediafire/Mega/Other: 
+### ISO (BETA 1.05) > Mediafire/Mega/Other: 
 Standard Version(currently under testing | BETA-1.04): https://mega.nz/file/zgsBVSBL#-EIHU_Lx0gZ47gI2hUT_VXwhBymI58twOXuHZCPfvhY
 
-NVIDIA Version(BETA-1.04): https://mega.nz/file/ShlUTbiS#ggxYyhdNHwEAxoeuM9ud4WvcMrRbYIXfh2ST6hFOGkg
+NVIDIA Version(BETA-1.05): https://mega.nz/file/ShlUTbiS#ggxYyhdNHwEAxoeuM9ud4WvcMrRbYIXfh2ST6hFOGkg
 
 ### SourceForge: 
 https://sourceforge.net/projects/xray-os/
