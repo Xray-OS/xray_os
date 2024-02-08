@@ -22,7 +22,7 @@ https://sourceforge.net/projects/xray-os/
 # Want to know a little about this project?
 <img src="https://images2.imgbox.com/98/c0/5VRGfBHj_o.png" width="100" height="100">
 
-![Screenshot_20231130_185442](https://github.com/Xray-OS/xray_os/assets/143856402/192c9bd7-6706-447f-a8bb-36513a95907d)
+![New Xray_OS version](https://github.com/Xray-OS/xray_os/assets/143856402/2ee22146-6d28-47bc-9e50-979683656ea9)
 
 ## What is Xray_OS? 
 Xray_OS overall it's a great Linux Distribution for gaming, that I've created, for my personal use, I always wanted to create my own OS, but since that's kind of impossible, well... why not making my own Linux Distro? From my favorite type which is Arch. Arch Linux it's just so flexible and customizable, and like everyone who ever heard of, or use Arch would say: we always have the latest and greatest software.
