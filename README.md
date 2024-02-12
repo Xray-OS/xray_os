@@ -29,9 +29,6 @@ Xray_OS it's an Arch Linux project that i created, to have a personal Linux Dist
 
 > **ArcoLinux.**
 
-**This image below is how the old versions used to look:**
-![Xray_OS](https://github.com/Xray-OS/xray_os/assets/143856402/6838b3ff-f63c-4e9f-9f9b-4c794eb65593)
-
 But I really wanted to make it simple and not too complicated, so the plasma settings that Xray_OS uses are not so complex in terms of Beauty or Eye Candy.
 
 Xray_OS already comes with pre-installed software for gaming + Wine + Wine dependencies, dependencies to work with Unreal Engine, The normal software that everyone uses like, a music player, a video player, Nvidia drivers, support for 32 bits, Snapd, Flatpack etc.
@@ -43,5 +40,8 @@ At the moment, this Linux distro is in a **BETA** state, so maybe a couple thing
 * ~~A manual adjustment is require to show the preferred login manager chosen for the distro out of the box.~~(FIXED) 
 
 Most of this issues will get fix eventually, remember this is still on **BETA**, so you're advised.
+
+**This image below is how the old versions used to look:**
+![Xray_OS](https://github.com/Xray-OS/xray_os/assets/143856402/6838b3ff-f63c-4e9f-9f9b-4c794eb65593)
 
 <img src="https://images2.imgbox.com/98/c0/5VRGfBHj_o.png" width="100" height="100">
