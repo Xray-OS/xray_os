@@ -1,0 +1,10 @@
+[DaVinci Resolve main window always with titlebar and frame]
+Description=DaVinci Resolve main window always with titlebar and frame
+clientmachinematch=0
+noborder=false
+noborderrule=2
+titlematch=0
+types=1
+wmclass=resolve
+wmclasscomplete=false
+wmclassmatch=1

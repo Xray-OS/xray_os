@@ -1,0 +1,27 @@
+#!/bin/bash
+#set -e
+###############################################################################
+# Author	:	Erik Dubois, Used by Xray_OS which is made by Angel Contreras
+# Website	:	https://gitlab.com/Xray_OS
+###############################################################################
+#
+#   DO NOT JUST RUN THIS. EXAMINE AND JUDGE. RUN AT YOUR OWN RISK.
+#
+###############################################################################
+
+package=sddm
+if pacman -Qs $package > /dev/null ; then
+    ln -sf /usr/lib/systemd/system/sddm.service /etc/systemd/system/display-manager.service
+fi
+package=gdm
+if pacman -Qs $package > /dev/null ; then
+    ln -sf /usr/lib/systemd/system/gdm.service /etc/systemd/system/display-manager.service
+fi
+package=lxdm
+if pacman -Qs $package > /dev/null ; then
+    ln -sf /usr/lib/systemd/system/lxdm.service /etc/systemd/system/display-manager.service
+fi
+package=lightdm
+if pacman -Qs $package > /dev/null ; then
+  ln -sf /usr/lib/systemd/system/lightdm.service /etc/systemd/system/display-manager.service
+fi

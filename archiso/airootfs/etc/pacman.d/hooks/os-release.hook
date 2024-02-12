@@ -1,0 +1,11 @@
+# remove from airootfs!
+[Trigger]
+Operation = Install
+Operation = Upgrade
+Type = Package
+Target = filesystem
+
+[Action]
+Description = Add Xray_OS config for "os-release" file
+When = PostTransaction
+Exec = /bin/sh -c "cp /usr/lib/xray-os-release /usr/lib/os-release"
