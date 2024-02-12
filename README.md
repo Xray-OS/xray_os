@@ -2,7 +2,7 @@
 This is the iso build folder for Xray_OS. Big thanks to [Arcolinux](https://github.com/arcolinux), because it was my main learning source, to understand the way Arch Linux works in a manner that allows me to make this project possible, specifically, the ALCI Project: [Arch Linux Calamares Installer](https://github.com/arch-linux-calamares-installer).
 
 # GO TO GITLAB FOR A BETTER EXPERIENCE:
-Dear user, due to the nature of GitHub, being absolutely restrictive, controlling and imposing unfair traits to their users repositories, if you really want to get a full version of the Xray_OS folder, and all its derivates repos in general, please go to my GitLab, there all the vital repos for Xray_OS will be allowed in better conditions to the creator. Xray_OS core repo, and the rest are better allowed in my GitLab please go there [Xray_OS-GitLab]([https://github.com/arcolinux](https://gitlab.com/Xray_OS )) 
+Dear user, due to the nature of GitHub, being absolutely restrictive, controlling and imposing unfair traits to their users repositories, if you really want to get a full version of the Xray_OS folder, and all its derivates repos in general, please go to my GitLab, there all the vital repos for Xray_OS will be allowed in better conditions to the creator. Xray_OS core repo, and the rest are better allowed in my GitLab please go there [Xray_OS-GitLab](https://gitlab.com/Xray_OS) 
 
 # !IMPORTANT BEFORE YOU DOWNLOAD!: 
 
