@@ -27,6 +27,8 @@ Xray_OS it's an Arch Linux project that i created, to have a personal Linux Dist
 
 > **XeroLinux.**
 
+> **ArcoLinux.**
+
 **This image below is how the old versions used to look:**
 ![Xray_OS](https://github.com/Xray-OS/xray_os/assets/143856402/6838b3ff-f63c-4e9f-9f9b-4c794eb65593)
 
