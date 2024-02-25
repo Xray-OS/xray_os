@@ -2,9 +2,6 @@
 
 This is the iso build folder for Xray_OS. Big thanks to [Arcolinux](https://github.com/arcolinux), because it was my main learning source, to understand the way Arch Linux works in a manner that allows me to make this project possible, specifically, the ALCI Project: [Arch Linux Calamares Installer](https://github.com/arch-linux-calamares-installer).
 
-# GO TO GITLAB FOR A BETTER EXPERIENCE:
-Dear user, due to the nature of GitHub, being absolutely restrictive, controlling and imposing unfair traits to their users repositories, if you really want to see all **Xray_OS-Repos**, then please go to my GitLab, all the vital repos for will be allowed there in better conditions for me. You can go there [Xray_OS-GitLab](https://gitlab.com/Xray_OS) 
-
 # !IMPORTANT BEFORE YOU DOWNLOAD!: 
 
 Careful, be aware that this distro is something that I created for my personal use, it may not work as expected for everyone.
@@ -14,7 +11,11 @@ https://sourceforge.net/projects/xray-os/
 
 
 # Want to know a little about this project?
-<img src="https://images2.imgbox.com/98/c0/5VRGfBHj_o.png" width="100" height="100">
+<img src="https://images2.imgbox.com/79/d9/c0B6V9le_o.png" width="100" height="92">
+
+![Desktop 2](https://github.com/Xray-OS/xray_os/assets/143856402/847105ac-5e33-4e80-b2b8-ea10675a0429)
+
+![desktop 4](https://github.com/Xray-OS/xray_os/assets/143856402/904fdd37-bf30-428d-90a9-9ced5c44b16b)
 
 ![New Xray_OS version](https://github.com/Xray-OS/xray_os/assets/143856402/2ee22146-6d28-47bc-9e50-979683656ea9)
 
@@ -29,4 +30,4 @@ Xray_OS already comes with pre-installed software for gaming like Wine and all i
 
 NOTE: there is a version available that supports snapd.
 
-<img src="https://images2.imgbox.com/79/d9/c0B6V9le_o.png" width="100" height="100">
+<img src="https://images2.imgbox.com/79/d9/c0B6V9le_o.png" width="100" height="92">
