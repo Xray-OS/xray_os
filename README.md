@@ -7,7 +7,7 @@ Is Xray_OS the best Linux Distro for gaming? No, in that case use something like
 
 Xray_OS is just another, may be pointless for some, Arch Linux Distro, but its main focused it's towards the gaming side. The difference between Arch Linux Vanilla and Xray_OS, is that Xray_OS is Arch Linux but without the hassle of having to configure everything to make it suitable for normal activities or gaming.
 
-Xray_OS has switchable graphics cards, it can work on Hybrid mode (default) or Integraded mode.
+#Xray_OS has switchable graphics cards, it can work on Hybrid mode (default) or Integraded mode.
 
 Xray_OS already comes with pre-installed software for gaming like Wine and all its dependencies, Unreal Engine dependencies, The normal software that everyone uses like, a music player, a video player, support for 32 bits, Flatpack etc.
 
