@@ -1,4 +1,4 @@
-<img src="https://images2.imgbox.com/79/d9/c0B6V9le_o.png" width="100" height="100">
+<img src="https://images2.imgbox.com/79/d9/c0B6V9le_o.png" width="100" height="92">
 This is the iso build folder for Xray_OS. Big thanks to [Arcolinux](https://github.com/arcolinux), because it was my main learning source, to understand the way Arch Linux works in a manner that allows me to make this project possible, specifically, the ALCI Project: [Arch Linux Calamares Installer](https://github.com/arch-linux-calamares-installer).
 
 # GO TO GITLAB FOR A BETTER EXPERIENCE:
