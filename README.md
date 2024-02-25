@@ -28,7 +28,7 @@ https://sourceforge.net/projects/xray-os/
 
 ![desktop](https://github.com/Xray-OS/xray_os/assets/143856402/72893b38-3736-472d-ad1c-05c0779b0445)
 
-Vanilla Plasma Version:
+## Vanilla Plasma Version:
 ![New Xray_OS version](https://github.com/Xray-OS/xray_os/assets/143856402/2ee22146-6d28-47bc-9e50-979683656ea9)
 
 <img src="https://images2.imgbox.com/79/d9/c0B6V9le_o.png" width="100" height="92">
