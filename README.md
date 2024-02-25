@@ -15,8 +15,6 @@ https://sourceforge.net/projects/xray-os/
 
 ![Desktop 2](https://github.com/Xray-OS/xray_os/assets/143856402/847105ac-5e33-4e80-b2b8-ea10675a0429)
 
-![desktop 4](https://github.com/Xray-OS/xray_os/assets/143856402/904fdd37-bf30-428d-90a9-9ced5c44b16b)
-
 ![desktop](https://github.com/Xray-OS/xray_os/assets/143856402/72893b38-3736-472d-ad1c-05c0779b0445)
 
 ![New Xray_OS version](https://github.com/Xray-OS/xray_os/assets/143856402/2ee22146-6d28-47bc-9e50-979683656ea9)
