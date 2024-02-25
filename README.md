@@ -1,4 +1,4 @@
-![Xray_OS logo](https://images2.imgbox.com/67/fa/UbT8qfSj_o.png)
+<img src="https://images2.imgbox.com/79/d9/c0B6V9le_o.png" width="100" height="100">
 This is the iso build folder for Xray_OS. Big thanks to [Arcolinux](https://github.com/arcolinux), because it was my main learning source, to understand the way Arch Linux works in a manner that allows me to make this project possible, specifically, the ALCI Project: [Arch Linux Calamares Installer](https://github.com/arch-linux-calamares-installer).
 
 # GO TO GITLAB FOR A BETTER EXPERIENCE:
@@ -6,7 +6,7 @@ Dear user, due to the nature of GitHub, being absolutely restrictive, controllin
 
 # !IMPORTANT BEFORE YOU DOWNLOAD!: 
 
-Careful, be aware that this distro is something that I created for my personal use, it may not work as expected for everyone. At the moment it only works with PCs or Laptos that has NVIDIA GPUs. Support for AMD or no graphics cards at all will come in the future for sure.
+Careful, be aware that this distro is something that I created for my personal use, it may not work as expected for everyone.
 
 ### SourceForge: 
 https://sourceforge.net/projects/xray-os/
@@ -18,33 +18,14 @@ https://sourceforge.net/projects/xray-os/
 ![New Xray_OS version](https://github.com/Xray-OS/xray_os/assets/143856402/2ee22146-6d28-47bc-9e50-979683656ea9)
 
 ## What is Xray_OS? 
-Xray_OS it's an Arch Linux project that i created, to have a personal Linux Distro so i can use myself, is intended to be a friendly gaming compatible Distro, so it will probably work well for that purpose
+Is Xray_OS the best Linux Distro for gaming? No, in that case use something like CachyOS or Nobara.
 
-**My inspiration for creating Xray_OS, was given as an idea from distros like:** 
+Xray_OS is just another, may be pointless for some, Arch Linux Distro, but its main focused it's towards the gaming side. The difference between Arch Linux Vanilla and Xray_OS, is that Xray_OS is Arch Linux but without the hassle of having to configure everything to make it suitable for normal activities or gaming.
 
-> **Nobara(mainly)** 
+Xray_OS has switchable graphics cards, it can work on Hybrid mode (default) or Integraded mode.
 
-> **Pop!_OS** 
+Xray_OS already comes with pre-installed software for gaming like Wine and all its dependencies, Unreal Engine dependencies, The normal software that everyone uses like, a music player, a video player, support for 32 bits, Flatpack etc.
 
-> **DTOS** 
+NOTE: there is a version available that supports snapd.
 
-> **XeroLinux.**
-
-> **ArcoLinux.**
-
-But I really wanted to make it simple and not too complicated, so the plasma settings that Xray_OS uses are not so complex in terms of Beauty or Eye Candy.
-
-Xray_OS already comes with pre-installed software for gaming + Wine + Wine dependencies, dependencies to work with Unreal Engine, The normal software that everyone uses like, a music player, a video player, Nvidia drivers, support for 32 bits, Snapd, Flatpack etc.
-
-At the moment, this Linux distro is in a **BETA** state, so maybe a couple things would need some manual adjustment as you may notice. 
-
-### Eg. 
-* ~~Favorite apps are not shown in the Launcher.~~(FIXED)
-* ~~A manual adjustment is require to show the preferred login manager chosen for the distro out of the box.~~(FIXED) 
-
-Most of this issues will get fix eventually, remember this is still on **BETA**, so you're advised.
-
-**This image below is how the old versions used to look:**
-![Xray_OS](https://github.com/Xray-OS/xray_os/assets/143856402/6838b3ff-f63c-4e9f-9f9b-4c794eb65593)
-
-<img src="https://images2.imgbox.com/98/c0/5VRGfBHj_o.png" width="100" height="100">
+<img src="https://images2.imgbox.com/79/d9/c0B6V9le_o.png" width="100" height="100">
