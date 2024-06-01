@@ -3,15 +3,9 @@
 This is the iso build folder for Xray_OS. Big thanks to [Arcolinux](https://github.com/arcolinux), because it was my main learning source, to understand the way Arch Linux works in a manner that allows me to make this project possible, specifically, the ALCI Project: [Arch Linux Calamares Installer](https://github.com/arch-linux-calamares-installer).
 
 ## What is Xray_OS? 
-Is Xray_OS the best Linux Distro for gaming? No, in that case use something like CachyOS or Nobara.
+I just want to clarify one thing, this is not a game changer, this is not really made for the public, this is only for my personal use, if you're really an experienced Linux user looking for the perfect this distro, this is not the place for you to be looking at.
 
-Xray_OS is just another, may be pointless for some, Arch Linux Distro, but its main focused it's towards the gaming side. The difference between Arch Linux Vanilla and Xray_OS, is that Xray_OS is Arch Linux but without the hassle of having to configure everything to make it suitable for normal activities or gaming.
-
-### Xray_OS has switchable graphics cards, it can work on Hybrid mode (default) or Integraded mode.
-
-Xray_OS already comes with pre-installed software for gaming like Wine and all its dependencies, Unreal Engine dependencies, The normal software that everyone uses like, a music player, a video player, support for 32 bits, Flatpack etc.
-
-NOTE: there is a version available that supports snapd.
+The distro focuses mostly on having launchers for play video games and other improvements that i've made for myslef, but again, this is for personal use, stop criticizing this project like it is supposed to change the entire world, this is just my personal distro that i use just to not have to reinstall everything from the terminal.
 
 # !IMPORTANT BEFORE YOU DOWNLOAD!: 
 
