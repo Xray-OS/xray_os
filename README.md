@@ -11,8 +11,8 @@ The distro focuses mostly on having launchers for play video games and other imp
 
 Careful, be aware that this distro is something that I created for my personal use, it may not work as expected for everyone.
 
-### SourceForge: 
-https://sourceforge.net/projects/xray-os/
+### Download: 
+Not available at the moment 
 
 
 # Want to know a little about this project?
