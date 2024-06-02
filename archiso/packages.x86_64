@@ -121,7 +121,7 @@ usbutils
 vim
 virtualbox-guest-utils-nox
 vpnc
-wezterm-terminfo
+#wezterm-terminfo
 wireless-regdb
 wireless_tools
 wpa_supplicant
@@ -129,18 +129,6 @@ wvdial
 xfsprogs
 xl2tpd
 zsh
-
-# everything above comes from archiso releng folder
-#########################################################################
-#               BEFORE ALL, "#AI#" = ALREADY INCLUDED                   #
-#########################################################################
-
-#########################################################################
-#                  XRAY_OS CALAMARES
-#########################################################################
-
-xray-calamares
-xray-calamares-settings
 
 #######################################################
 ###      PACKAGES THAT STAY AFTER INSTALLATION      ###
@@ -153,21 +141,56 @@ make
 mkinitcpio-openswap
 
 #########################################################################
+#                  XRAY_OS-PLASMA-CLASSIC
+#########################################################################
+xray-wallpapers
+xray_os-nerd-fonts
+xray_os-dark-kde-theme
+
+#########################################################################
+#                  XRAY SYSTEM INSTALLATION
+#########################################################################
+
+###system installation and config
+xray_os-grub-theme-git
+xray-bootloader-grub-git
+xray-system-installation-git
+xray-system-config-git
+glxinfo
+#xray-hello-app-git
+xray-hello-app-online-git
+
+#########################################################################
+#                  CALAMARES
+#########################################################################
+
+xray-calamares-wayland
+xray-calamares-config-online
+
+#########################################################################
 #                  XRAY SYSTEM PACKAGES
 #########################################################################
 
-###headers
+###linux and headers
+
+##vanilla
 linux-headers
 
+##liquorix
+linux-lqx
+linux-lqx-headers
+
+###firewall
+ufw
+
 ###neofetch
-neofetch-xray
+kate
 fastfetch
 
 ##other
-bash-completion
 #yay-bin
 timeshift
-#timeshift-autosnap
+timeshift-autosnap
 lsb-release
 virtualbox-guest-iso
 
@@ -178,8 +201,11 @@ grub-btrfs
 networkmanager
 network-manager-applet
 
+### intel
+vulkan-intel
+
 ###nvidia drivers
-nvidia
+#nvidia
 nvidia-dkms
 libglvnd
 nvidia-utils
@@ -190,6 +216,7 @@ lib32-opencl-nvidia
 nvidia-settings
 mesa
 mesa-utils
+#cuda
 
 ###display manager
 sddm
@@ -201,22 +228,46 @@ xorg-xclock
 xterm
 xorg-xkill
 xorg-xrdb
+xorg-xrandr
+
+###wayland
+xorg-xwayland
+qt6-wayland
+wayland
+#glfw-wayland
+glfw
 
 ###desktop enviroment
 plasma
+kwalletmanager
 
 #########################################################################
 #                  XRAY ESSENTIALS
 #########################################################################
+
+###beatiful-bash-depends
+#autojump
+bash
+bash-completion
+#tar
+#neovim
+#bat
+
+###terminals
+konsole
+kitty
 
 ###other
 downgrade
 fuse2
 rar
 snapd
+packagekit-qt6
 
 ###browsers
-brave-bin
+#brave-bin
+floorp-bin
+#floorp
 vivaldi
 vivaldi-ffmpeg-codecs
 
@@ -239,6 +290,8 @@ adobe-source-han-sans-cn-fonts
 strawberry
 vlc
 audacious
+haruna
+mpv
 
 ###utilities
 ark
@@ -247,27 +300,33 @@ gwenview
 spectacle
 kate
 libreoffice-fresh
-konsole
 kamoso
 partitionmanager
 power-profiles-daemon
 supergfxctl
-plasma5-applets-supergfxctl
+plasma6-applets-supergfxctl
 okular
 
-###audio
-pipewire
-pipewire-pulse
-#alsa-firmware
-alsa-plugins
-alsa-lib
-#alsa-utils
+#gts-plugins
 gst-libav
 gst-plugins-bad
 gst-plugins-base
 gst-plugins-good
 gst-plugins-ugly
+gst-plugin-pipewire
 gstreamer
+gst-libav
+libde265
+gst-plugin-openh264
+gst-plugin-va
+
+###audio
+pipewire
+pipewire-pulse
+alsa-firmware
+alsa-plugins
+alsa-lib
+alsa-utils
 libdvdcss
 #pulseaudio
 #pulseaudio-alsa
@@ -285,26 +344,42 @@ paru
 yay
 
 ###development
+git-lfs
 git
 base-devel
 meld
+cmake
+gcc
+rustup
+#gdb
+#mingw-w64
+
+### obs studio pkgs
+obs-vkcapture
+lib32-obs-vkcapture
+obs-gstreamer
+gstreamer-vaapi
+intel-media-sdk
+onevpl-intel-gpu
+
+###Unreal Engine dependencies
+dotnet-sdk
+clang
 
 #########################################################################
 #                  XRAY GAMING
 #########################################################################
 
 ###other
+vkbasalt
 gamemode
 lib32-gamemode
-
-###Unreal Engine dependencies
-dotnet-sdk
-clang
 
 ###launchers
 steam
 lutris
 heroic-games-launcher-bin
+bottles
 
 ###wine and dependencies
 wine-staging
@@ -363,7 +438,10 @@ protontricks
 #protontricks-git
 python-vdf
 protonup-qt
+
+###utilities
 goverlay
+gamescope
 
 #########################################################################
 #                  XRAY UTILITIES
@@ -394,6 +472,19 @@ ttf-hack
 ttf-roboto
 ttf-roboto-mono
 ttf-ubuntu-font-family
+wget
+curl
+zsh-completions
+#zsh-autosuggestions
+#zsh-syntax-highlighting
+mkinitcpio-firmware
+htop
+#gparted
+octopi
+
+##the Chaotic repo
+chaotic-mirrorlist
+chaotic-keyring
 
 #######################################################
 ###                    EXTRAS                       ###
@@ -410,8 +501,3 @@ ttf-ubuntu-font-family
 #xf86-video-intel
 #xf86-video-amdgpu
 #xf86-video-nouveau
-
-##### want to add/use the Chaotic repo
-
-#chaotic-mirrorlist
-#chaotic-keyring

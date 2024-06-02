@@ -142,7 +142,6 @@ DataCount=3
 Comment=KMenuEdit Global Shortcuts
 DataCount=1
 Enabled=true
-ImportId=defaults
 Name=KMenuEdit
 SystemGroup=1
 Type=ACTION_DATA_GROUP
@@ -995,18 +994,26 @@ GesturePointData=0,0.0625,-0.5,0.5,1,0.0625,0.0625,-0.5,0.5,0.875,0.125,0.0625,-
 Type=GESTURE
 
 [General]
+AccentColor[$d]
 ColorScheme[$d]
 ColorSchemeHash[$d]
+LastUsedCustomAccentColor[$d]
 
 [Gestures]
 Disabled=true
 MouseButton=2
 Timeout=300
 
+[GesturesExclude]
+Comment=
+WindowsCount=0
+
 [Icons]
 Theme[$d]
 
 [KDE]
+LookAndFeelPackage[$d]
+ShowDeleteCommand[$d]
 SingleClick[$d]
 widgetStyle[$d]
 
@@ -1020,6 +1027,7 @@ PathCombo Completionmode[$d]
 Show Bookmarks[$d]
 Show Full Path[$d]
 Show Inline Previews[$d]
+Show Preview[$d]
 Show Speedbar[$d]
 Show hidden files[$d]
 Sort by[$d]
@@ -1033,6 +1041,9 @@ View Style[$d]
 AlreadyImported=defaults,kde32b1,konqueror_gestures_kde321
 Disabled=false
 Version=2
+
+[PreviewSettings]
+MaximumRemoteSize[$d]
 
 [Voice]
 Shortcut=

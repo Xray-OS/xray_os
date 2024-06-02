@@ -1,5 +1,5 @@
 [Background]
-Color=27,27,27
+Color=17,17,17
 
 [BackgroundFaint]
 Color=0,0,0
@@ -17,7 +17,7 @@ Color=24,24,24
 Color=104,104,104
 
 [Color1]
-Color=178,24,24
+Color=170,0,255
 
 [Color1Faint]
 Color=101,0,0
@@ -26,7 +26,7 @@ Color=101,0,0
 Color=255,84,84
 
 [Color2]
-Color=24,178,24
+Color=170,255,255
 
 [Color2Faint]
 Color=0,101,0
@@ -35,7 +35,7 @@ Color=0,101,0
 Color=84,255,84
 
 [Color3]
-Color=178,104,24
+Color=23,229,160
 
 [Color3Faint]
 Color=101,74,0
@@ -44,7 +44,7 @@ Color=101,74,0
 Color=255,255,84
 
 [Color4]
-Color=24,24,178
+Color=21,154,236
 
 [Color4Faint]
 Color=0,0,101
@@ -71,7 +71,7 @@ Color=24,178,178
 Color=84,255,255
 
 [Color7]
-Color=178,178,178
+Color=239,239,239
 
 [Color7Faint]
 Color=101,101,101
@@ -90,11 +90,11 @@ Color=255,255,255
 
 [General]
 Anchor=0.5,0.5
-Blur=false
+Blur=true
 ColorRandomization=false
 Description=Xray_OS-Settings
 FillStyle=Tile
-Opacity=0.8
+Opacity=0.9
 Wallpaper=
 WallpaperFlipType=NoFlip
 WallpaperOpacity=1
