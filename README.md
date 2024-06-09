@@ -8,7 +8,7 @@ I just want to clarify one thing, this is not a game changer, this is not really
 The distro focuses mostly on having launchers for play video games and other improvements that i've made for myslef, but again, this is for personal use, stop criticizing this project like it is supposed to change the entire world, this is just my personal distro that i use just so that i don't have to reinstall everything from the terminal again and again.
 
 ### Download: 
-Not available at the moment 
+[Not available at the moment](https://sourceforge.net/projects/xray-os/) 
 
 
 # Want to know a little about this project?
