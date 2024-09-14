@@ -11,7 +11,7 @@ The distro focuses mostly on having launchers for play video games and other imp
 https://sourceforge.net/projects/xray-os/
 
 
-# Want to know a little about this project?
+# Some pictures to illustrate.
 
 ![Desktop 2](https://github.com/Xray-OS/xray_os/assets/143856402/847105ac-5e33-4e80-b2b8-ea10675a0429)
 
