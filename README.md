@@ -1,4 +1,4 @@
-<img src="https://images2.imgbox.com/79/d9/c0B6V9le_o.png" width="100" height="92">
+<img src="https://images2.imgbox.com/b1/19/gp7ReKqs_o.png">
 
 This is the iso build folder for Xray_OS. 
 
