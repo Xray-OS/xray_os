@@ -12,7 +12,6 @@ https://sourceforge.net/projects/xray-os/
 
 
 # Want to know a little about this project?
-<img src="https://images2.imgbox.com/79/d9/c0B6V9le_o.png" width="100" height="92">
 
 ![Desktop 2](https://github.com/Xray-OS/xray_os/assets/143856402/847105ac-5e33-4e80-b2b8-ea10675a0429)
 
