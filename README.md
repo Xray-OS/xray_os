@@ -16,6 +16,6 @@ https://sourceforge.net/projects/xray-os/
 
 ![Desktop 2](https://github.com/Xray-OS/xray_os/assets/143856402/847105ac-5e33-4e80-b2b8-ea10675a0429)
 
-![desktop](https://github.com/Xray-OS/xray_os/assets/143856402/72893b38-3736-472d-ad1c-05c0779b0445)
+<img src="https://images2.imgbox.com/be/32/bvReWob9_o.png">
 
 <img src="https://images2.imgbox.com/79/d9/c0B6V9le_o.png" width="100" height="92">
