@@ -1,3 +1,5 @@
+## THE CURRENT BUILD FOLDER IS AVAILABLE ON [GITLAB](https://gitlab.com/Xray_OS/xray_os ) 
+
 <img src="https://images2.imgbox.com/b1/19/gp7ReKqs_o.png">
 
 This is the iso build folder for Xray_OS. 
