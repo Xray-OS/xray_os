@@ -3,7 +3,7 @@
 This is the iso build folder for Xray_OS. 
 
 ## What is Xray_OS? 
-This Distro was not exactly created for the general public in mind, this is my personal one Arch Linux instance , if i was using regular Arch this would be the way that i personally would choose to setup my Distro below you can see what is implemented.
+This Distro was not exactly created for the general public in mind, this is my personal one Arch Linux instance , if i was using regular Arch this would be the way that i personally would choose to setup my Distro.
 
 The distro focuses mostly on having launchers for play video games and other improvements that i've made for myslef for my personal use, the main objective of this Arch Distro, is mainly to safe myself some time having to install Arch Linux over and over again from the terminal, and instead of that i can just use my already pre-configured ArchLinux with a comfortable Calamares Installer
 
