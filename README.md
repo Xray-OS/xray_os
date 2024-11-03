@@ -1,19 +1,13 @@
-## THE CURRENT BUILD FOLDER IS AVAILABLE ON [GITLAB](https://gitlab.com/Xray_OS/xray_os ) 
+ <img src="https://images2.imgbox.com/b1/19/gp7ReKqs_o.png"> 
 
-<img src="https://images2.imgbox.com/b1/19/gp7ReKqs_o.png">
+## Xray_OS(CANCELED) 
+Xray_OS used to be an ArchLinux gaming distro, created in the middle of 2023, but due to negative reception, this project has been canceled.
+Fortunately there's a new project similar to what this used to be, that i created my self to, that project is [XeroArch](https://sourceforge.net/projects/xeroarch/)
 
-This is the iso build folder for Xray_OS. 
+## Besides the fact that this project has been canceled, I have to Thank all the people that try it and gave at least 2 stars, Thank You <3, i'll see you on:
+[XeroArch](https://sourceforge.net/projects/xeroarch/)
 
-## What is Xray_OS? 
-This Distro was not exactly created for the general public in mind, this is my personal one Arch Linux instance , if i was using regular Arch this would be the way that i personally would choose to setup my Distro.
-
-The distro focuses mostly on having launchers for play video games and other improvements that i've made for myslef for my personal use, the main objective of this Arch Distro, is mainly to safe myself some time having to install Arch Linux over and over again from the terminal, and instead of that i can just use my already pre-configured ArchLinux with a comfortable Calamares Installer.
-
-### Download: 
-https://sourceforge.net/projects/xray-os/
-
-
-# Some pictures to illustrate.
+# Some pictures on how this distro used to look.
 
 ![Desktop 2](https://github.com/Xray-OS/xray_os/assets/143856402/847105ac-5e33-4e80-b2b8-ea10675a0429)
 
