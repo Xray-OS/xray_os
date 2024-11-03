@@ -1,6 +1,6 @@
  <img src="https://images2.imgbox.com/b1/19/gp7ReKqs_o.png"> 
 
-## Xray_OS(CANCELED) 
+## Xray_OS(DEPRECATED) 
 Xray_OS used to be an ArchLinux gaming distro, created in the middle of 2023, but due to negative reception, this project has been canceled.
 Fortunately there's a new project similar to what this used to be, that i created my self too, that project is [XeroArch](https://sourceforge.net/projects/xeroarch/)
 
