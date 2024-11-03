@@ -2,7 +2,7 @@
 
 ## Xray_OS(CANCELED) 
 Xray_OS used to be an ArchLinux gaming distro, created in the middle of 2023, but due to negative reception, this project has been canceled.
-Fortunately there's a new project similar to what this used to be, that i created my self to, that project is [XeroArch](https://sourceforge.net/projects/xeroarch/)
+Fortunately there's a new project similar to what this used to be, that i created my self too, that project is [XeroArch](https://sourceforge.net/projects/xeroarch/)
 
 ## Besides the fact that this project has been canceled, I have to Thank all the people that try it and gave at least 2 stars, Thank You <3, i'll see you on:
 [XeroArch](https://sourceforge.net/projects/xeroarch/)
