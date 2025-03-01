@@ -21,7 +21,7 @@ Like I said at the beginning, this is my personal Archlinux instance, that I cre
 
 ![Desktop 2](https://github.com/Xray-OS/xray_os/assets/143856402/847105ac-5e33-4e80-b2b8-ea10675a0429)
 
-<img src="https://images2.imgbox.com/93/10/eHj7jhXu_o.png">
+<img src="https://images2.imgbox.com/a5/e5/VcjlKerg_o.png">
 
 <img src="https://images2.imgbox.com/91/a3/bmepo64s_o.jpg">
 
